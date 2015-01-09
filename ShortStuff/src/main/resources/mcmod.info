@@ -1,0 +1,16 @@
+[
+{
+  "modid": "shortstuff",
+  "name": "ShortStuff",
+  "description": "Things and stuff",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ShortCircuit908"],
+  "credits": "ur mum",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

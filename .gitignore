@@ -1,0 +1,11 @@
+/bin
+/.settings
+/.idea
+*.iml
+*.classpath
+*.project
+/out
+/build
+/doc
+/forge
+/libs

@@ -1,0 +1,4 @@
+tile.logic_gate.name=Logic Gate
+tile.wire_block.name=Wire
+
+item.basic_wire.name=Basic Wire
